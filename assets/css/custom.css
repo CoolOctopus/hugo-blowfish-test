@@ -1,0 +1,8 @@
+@font-face {
+    font-family: bahnschrift;
+    src: url('/fonts/bahnschrift.ttf');
+}
+
+html {
+    font-family: 'bahnschrift','PingFang SC','DIN-Medium','Open Sans','Mirages Custom', 'Merriweather',  'PingFang SC', 'Hiragino Sans GB', 'Microsoft Yahei', 'WenQuanYi Micro Hei',  'Segoe UI Emoji', 'Segoe UI Symbol', Helvetica, Arial, sans-serif;
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>全部 on XX笔记</title>
+    <link>https://cooloctopus.github.io/note.xxend.cool/categories/%E5%85%A8%E9%83%A8/</link>
+    <description>Recent content in 全部 on XX笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 xxend.cool</copyright>
+    <lastBuildDate>Sun, 17 Sep 2023 09:14:35 +0800</lastBuildDate><atom:link href="https://cooloctopus.github.io/note.xxend.cool/categories/%E5%85%A8%E9%83%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>font-size设置为62.5%的意义</title>
+      <link>https://cooloctopus.github.io/note.xxend.cool/program/202309-css-font-size/</link>
+      <pubDate>Sun, 17 Sep 2023 09:14:35 +0800</pubDate>
+      
+      <guid>https://cooloctopus.github.io/note.xxend.cool/program/202309-css-font-size/</guid>
+      <description>最近发现一个好看的博客主题，兼容桌面与移动端。我粗浅的研究了一下它的源码，在css中有一个片段引起了我的注意。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cooloctopus.github.io/note.xxend.cool/program/202309-css-font-size/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>神器 | 在线调色板Colorhub</title>
+      <link>https://cooloctopus.github.io/note.xxend.cool/design-tool/colorhub/</link>
+      <pubDate>Sun, 17 Sep 2023 08:24:35 +0800</pubDate>
+      
+      <guid>https://cooloctopus.github.io/note.xxend.cool/design-tool/colorhub/</guid>
+      <description>有时候，你可能会从自然界、图片或者优秀作品中获取灵感，但有时候，你可能会觉得缺乏创意或者不知道如何选择合适的颜色，感觉创作的作品总缺少灵魂，如何配色成为设计师头疼的事情之一。今天 Boss 分享一个在线调色板给你，帮助你快速地创建出各种风格和主题的颜色方案。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cooloctopus.github.io/note.xxend.cool/design-tool/colorhub/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>样机 | 免费高质量PSD样机资源站Mockupbee</title>
+      <link>https://cooloctopus.github.io/note.xxend.cool/design-material/mockupbee/</link>
+      <pubDate>Sun, 17 Sep 2023 08:04:35 +0800</pubDate>
+      
+      <guid>https://cooloctopus.github.io/note.xxend.cool/design-material/mockupbee/</guid>
+      <description>如果你想要把设计作品快速呈现出来，或者想要客户更加直观的看到设计师的想法，那么实体样机图不仅节省时间，并且能够减少沟通让我们能够快速找到设计作品的不足，及时优化设计方案，因此国外非常流行使用实体样机展示设计作品。今天分享一个高质量的样机图资源站，帮助更好你展示设计方案，提升设计效率哦。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cooloctopus.github.io/note.xxend.cool/design-material/mockupbee/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

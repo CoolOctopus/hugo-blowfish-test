@@ -1,0 +1,7 @@
+theme = "blowfish"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
+    max = "0.118.2"

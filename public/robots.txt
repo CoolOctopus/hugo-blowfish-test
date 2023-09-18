@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cooloctopus.github.io/note.xxend.cool/sitemap.xml
