@@ -12,7 +12,7 @@
 
 [[main]]
   name = "笔记"
-  pageRef = "categories/笔记/"
+  pageRef = "categories/notes/"
   weight = 10
 
 [[main]]
@@ -29,7 +29,7 @@
 
 [[main]]
   name = "资源"
-  pageRef = "categories/资源/"
+  pageRef = "categories/resources/"
   weight = 20
 
 [[main]]
@@ -45,21 +45,24 @@
   weight = 20
 
 [[main]]
-  pre = "github"
-  name = "GitHub"
-  url = "https://github.com/cooloctopus/note.xxend.cool"
+  name = "日记"
+  pageRef = "diary"
   weight = 30
 
-# [[subnavigation]]
-#   name = "An interesting topic"
-#   pageRef = "tags/interesting-topic"
-#   weight = 10
+[[main]]
+  pre = "github"
+  url = "https://github.com/cooloctopus/note.xxend.cool"
+  weight = 40
 
-# [[subnavigation]]
-#   name = "My Awesome Category"
-#   pre = "github"
-#   pageRef = "categories/awesome"
-#   weight = 20
+[[subnavigation]]
+  name = "标签"
+  pageRef = "tags"
+  weight = 10
+
+[[subnavigation]]
+  name = "分类"
+  pageRef = "categories"
+  weight = 20
 
 
 # -- Footer Menu --
