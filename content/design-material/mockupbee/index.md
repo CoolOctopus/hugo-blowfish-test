@@ -2,8 +2,9 @@
 title: "样机 | 免费高质量PSD样机资源站Mockupbee"
 date: 2023-09-17T08:04:35+08:00
 draft: false
-categories: ["resources"]
+categories: ["resources","设计素材"]
 tags: ["Mockupbee","psd样机","免费样机"]
+type: ["design-material"]
 ---
 
 对于设计师，样机是常用的资源，样机可以快速展示设计作品，让客户更加直观看到设计师的想法，因此国外非常流行使用实体样机展示设计作品。通过样机图展示，设计师还可以看出作品可能存在的不足，并及时优化设计方案。

@@ -9,7 +9,7 @@ tags: ["git","命令"]
 
 ## git clone
 1. 作用：该命令的可以帮助我们将仓库下载到本地。
-2. 用法：`git clone <URL>`
+2. 用法：`git clone [URL]`
 ```cmd
 git clone https://github.com/xxxxx/xxxx.git
 ```

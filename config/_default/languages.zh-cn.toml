@@ -16,11 +16,11 @@ title = "XX笔记"
 [author]
   name = "XX笔记"
   image = "img/note_avatar.png"
-  headline = "设计尽头是编程?"
+  headline = 分享实用笔记与素材资源"
   bio = "设计 | 编程 | 素材 | 导航 | AI"
-  links = [
-    {github = "https://github.com/cooloctopus"}
-  ]
+  # links = [
+  #   {github = "https://github.com/cooloctopus"}
+  # ]
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

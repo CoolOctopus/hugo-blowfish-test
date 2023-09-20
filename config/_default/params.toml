@@ -48,7 +48,7 @@ smartTOCHideUnfocusedChildren = true
 
 [article]
   showDate = true
-  showViews = true
+  showViews = false
   showLikes = false
   showDateUpdated = false
   showAuthor = true
@@ -65,7 +65,7 @@ smartTOCHideUnfocusedChildren = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
@@ -84,7 +84,7 @@ smartTOCHideUnfocusedChildren = true
   showViews = false
   showLikes = false
   showTableOfContents = true
-  showCards = false
+  showCards = true
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
@@ -98,10 +98,10 @@ smartTOCHideUnfocusedChildren = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showTableOfContents = true
-  cardView = false
+  cardView = true
 
 [term]
   showHero = true

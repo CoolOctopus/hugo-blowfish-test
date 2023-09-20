@@ -45,7 +45,7 @@
   weight = 20
 
 [[main]]
-  name = "日记"
+  name = "日常"
   pageRef = "diary"
   weight = 30
 

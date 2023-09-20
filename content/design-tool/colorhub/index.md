@@ -2,8 +2,9 @@
 title: "神器 | 免费在线调色板Colorhub"
 date: 2023-09-17T08:24:35+08:00
 draft: false
-categories: ["resources"]
+categories: ["resources","设计神器"]
 tags: ["Colorhub","调色板"]
+type: ["design-tool"]
 ---
 
 如何搭配色彩往往是设计师们头疼的问题之一，设计师们会从自己收藏的色卡中汲取灵感，今天也给大家分享一个在线调色板Colorhub，你可以快速创建各种风格和主题的配色方案，看到不同色彩搭配所产生的效果，众多的配色方案或许还可以激发你的创作灵感。
