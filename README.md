@@ -1,6 +1,8 @@
 # [XX笔记](https://cooloctopus.github.io/hugo-blowfish-test/)
 设计与编程的双重世界——专注分享笔记与素材等资源
 
+![截图](./screenshot.jpg)
+
 ## 目的
 通过完成本网站搭建学习有关hugo的知识：
 * 新建hugo项目
