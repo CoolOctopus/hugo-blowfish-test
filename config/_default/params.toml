@@ -15,11 +15,11 @@ enableCodeCopy = true
 mainSections = ["program", "design", "diary", "design-tool", "design-material"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
-# @author: https://unsplash.com/@pawel_czerwinski 
-defaultBackgroundImage = "img/home_bg.jpg" # used as default for background images 
-defaultFeaturedImage = "img/home_bg.jpg" # used as default for featured images in all articles
+#@author: Photo by Rohit  on Unsplash
+defaultBackgroundImage = "img/home_bg_hori.png" # used as default for background images 
+defaultFeaturedImage = "img/home_bg_hori.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -36,12 +36,12 @@ smartTOCHideUnfocusedChildren = true
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/home_bg.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 12
   showMoreLink = true
-  showMoreLinkDest = "categories/笔记/"
+  showMoreLinkDest = "categories/notes/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -50,11 +50,11 @@ smartTOCHideUnfocusedChildren = true
   showDate = true
   showViews = false
   showLikes = false
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
@@ -67,10 +67,10 @@ smartTOCHideUnfocusedChildren = true
   invertPagination = false
   showReadingTime = false
   showTableOfContents = true
-  # showRelatedContent = false
-  # relatedContentLimit = 3
+  showRelatedContent = true
+  relatedContentLimit = 3
   showTaxonomies = true
-  showAuthorsBadges = false
+  showAuthorsBadges = true
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
@@ -83,10 +83,10 @@ smartTOCHideUnfocusedChildren = true
   showSummary = false
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   showCards = true
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
@@ -95,7 +95,7 @@ smartTOCHideUnfocusedChildren = true
 
 [taxonomy]
   showTermCount = true
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false

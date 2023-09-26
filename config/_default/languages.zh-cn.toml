@@ -1,7 +1,7 @@
 languageCode = "zh-cn"
 languageName = "chinese"
 weight = 1
-title = "XX笔记"
+title = "XX笔记-分享实用笔记与素材资源"
 
 [params]
   displayName = "Zh-CN"
@@ -18,9 +18,9 @@ title = "XX笔记"
   image = "img/note_avatar.png"
   headline = "分享实用笔记与素材资源"
   bio = "设计 | 编程 | 素材 | 导航 | AI"
-  # links = [
-  #   {github = "https://github.com/cooloctopus"}
-  # ]
+  links = [
+    {github = "https://github.com/cooloctopus"}
+  ]
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

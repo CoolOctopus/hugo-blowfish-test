@@ -4,9 +4,10 @@ description: "写日记可以更有效率的去整理思绪，也会帮助你思
 
 cascade:
   showDate: false
-  showAuthor: false
+  showAuthor: true
   invertPagination: false
 ---
-写日记可以更有效率的去整理思绪。
+
+写日记可以更有效率的整理思绪。
 
 ---

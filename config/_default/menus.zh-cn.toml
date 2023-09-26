@@ -12,7 +12,6 @@
 
 [[main]]
   name = "笔记"
-  pageRef = "categories/notes/"
   weight = 10
 
 [[main]]
@@ -29,7 +28,6 @@
 
 [[main]]
   name = "资源"
-  pageRef = "categories/resources/"
   weight = 20
 
 [[main]]
@@ -49,10 +47,10 @@
   pageRef = "diary"
   weight = 30
 
-[[main]]
-  pre = "github"
-  url = "https://github.com/cooloctopus/note.xxend.cool"
-  weight = 40
+# [[main]]
+#   pre = "github"
+#   url = "https://github.com/cooloctopus/note.xxend.cool"
+#   weight = 40
 
 [[subnavigation]]
   name = "标签"

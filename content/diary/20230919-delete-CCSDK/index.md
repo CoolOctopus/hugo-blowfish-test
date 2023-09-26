@@ -4,17 +4,17 @@ date: 2023-09-19T17:53:21+08:00
 draft: false
 description: "CCSDK存在一个本地权限提升漏洞，官方建议尽早删除"
 categories: ["日常"]
-tags: ["CCSDK","漏洞","bug","联想"]
+tags: ["CCSDK","bug","权限提升漏洞","联想"]
 ---
-{{<lead>}}
-这是一篇日记，关于我的老古董笔记本，涉及内容可能比较过时。
-{{</lead>}}
+
+> 这是一篇日记，关于我的老古董笔记本，内容可能比较过时。
+
 
 因为电脑硬盘空间不足，我今天准备删除一些不必要的软件，发现一个软件，CCSDK，由于不明白它是干嘛的，打算问问度娘能不能删除。
 
 ![](img/delete-ccsdk-01.jpg)
 
-一番搜索没有得到满意的答案，但是我发现一条[链接](https://support.lenovo.com/us/en/solutions/ps500284-ccsdk-discontinuation)是联想官网的，我毫不犹豫点了进去，毕竟官方信息可信度很高。
+一番搜索没有得到满意的答案，但是我发现一条联想官网的[链接](https://support.lenovo.com/us/en/solutions/ps500284-ccsdk-discontinuation)，我毫不犹豫点了进去，毕竟官方信息可信度很高。
 
 ![](img/delete-ccsdk-02.png)
 

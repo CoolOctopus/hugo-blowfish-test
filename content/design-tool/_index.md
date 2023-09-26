@@ -4,6 +4,6 @@ description: "在线工具 | 设计插件"
 
 cascade:
   showDate: false
-  showAuthor: false
+  showAuthor: true
   invertPagination: true
 ---

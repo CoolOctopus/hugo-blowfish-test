@@ -1,3 +1,5 @@
+
+
 @font-face {
     font-family: bahnschrift;
     src: url('/fonts/bahnschrift.ttf');
@@ -5,4 +7,44 @@
 
 html {
     font-family: 'bahnschrift','PingFang SC','DIN-Medium','Open Sans','Mirages Custom', 'Merriweather',  'PingFang SC', 'Hiragino Sans GB', 'Microsoft Yahei', 'WenQuanYi Micro Hei',  'Segoe UI Emoji', 'Segoe UI Symbol', Helvetica, Arial, sans-serif;
+}
+
+.gap-6 {
+    gap: 1.5rem;
+}
+
+.grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+
+@media (min-width: 640px){
+    .sm\:grid-cols-3 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: 853px){
+    .md\:grid-cols-4 {
+        grid-template-columns: repeat(4, minmax(0,1fr));
+    }
+}
+
+
+.prose :where(blockquote):not(:where([class~=not-prose] *)) {
+    font-style: normal;
+}
+
+@media (min-width: 853px){
+    .thumbnail {
+        min-width: 150px;
+        min-height: 150px;
+        height: auto;
+    }
+}
+
+.space-y-10>:not([hidden])~:not([hidden]) {
+    --tw-space-y-reverse: 0;
+    margin-top: 0;
+    margin-bottom: calc(2.5rem * var(--tw-space-y-reverse));
 }
